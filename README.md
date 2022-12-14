@@ -6,4 +6,4 @@
 
 ### Ikon değiştirme işlemi codetalks uygulamasındadır.
 
-#### ikon olusturma : https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+
